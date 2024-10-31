@@ -1,0 +1,4 @@
+.venv
+.env
+local_test.ipynb
+snowflake_service/__pycache__
